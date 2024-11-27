@@ -10,6 +10,6 @@
 - Computação em Nuvem (Cloud Computing)
 - Padrões de commits (Conventional Commits)
 
-📫 Você pode me contatar através do meu [LinkedIn](https://www.linkedin.com/in/raphael-valencio-martinez/) ou conferir meus projetos aqui no GitHub.
+📫 Você pode me contatar através do meu [LinkedIn](https://www.linkedin.com/in/raphael-valencio/) ou conferir meus projetos aqui no GitHub.
 
 Vamos construir algo incrível juntos!
